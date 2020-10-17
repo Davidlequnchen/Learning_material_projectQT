@@ -1,0 +1,1 @@
+  -LC:/Python37/libs  -LC:/Python37/Lib  -LD:/Program/boost_1_71_0/stage/lib  -LD:/Program/boost_1_71_0/lib64-msvc-14.2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

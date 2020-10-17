@@ -1,0 +1,2 @@
+D:\Schaeffler_Projects\Learning_material_projectQT\Project1\x64\Debug\Project1.dll
+D:\Schaeffler_Projects\Learning_material_projectQT\Project1\x64\Debug\Project1.pdb
